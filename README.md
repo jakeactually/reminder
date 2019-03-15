@@ -8,4 +8,4 @@ It end up using 0.2 mb and having medium startup impact, which is amazing.
 My code is mostly at Reminder/Reminder.h
 
 # screenshots
-![reminder screenshot](https://github.com/jakeactually/reminder/Captura.JPG "reminder screenshot")
+![reminder screenshot](https://raw.githubusercontent.com/jakeactually/reminder/master/Captura.JPG "reminder screenshot")
